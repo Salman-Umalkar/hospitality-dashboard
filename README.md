@@ -131,7 +131,7 @@ The dataset includes:
 
 ### Power BI Dashboard – Page 2
 
-![PBI Page 2](ADD_IMAGE_LINK_HERE)
+![PBI Page 2](https://github.com/Salman-Umalkar/hospitality-dashboard/blob/main/PBI%20DASHBOARD%20page%202.png)
 
 ---
 
