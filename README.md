@@ -137,7 +137,7 @@ The dataset includes:
 
 ### Excel Dashboard
 
-![Excel Dashboard](ADD_IMAGE_LINK_HERE)
+![Excel Dashboard](https://github.com/Salman-Umalkar/hospitality-dashboard/blob/main/EXCEL%20DASHBOARD.png)
 
 ---
 
